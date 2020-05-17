@@ -1,6 +1,6 @@
 # reinforcement_learning_under-construction
 
-(TO BE UPLOADED ON 21/5)
+( **CODE TO BE UPLOADED ON 21/5** )
 
 In this repo we consider the following grid-world problem :
 
@@ -21,3 +21,7 @@ that the agent cannot get out of the end state (i.e., it stays in the end state 
 The agent receives a reward of 100 when it reaches the goal state, -70 for the bad state and -1 for every other state,
 except the end state, which has a 0 reward. The agent’s task is to find a policy to reach the goal state as quickly as
 possible, while avoiding the bad state.
+
+**task 1** : We compute the optimal policy by imlpementing the **value iteration** algorithm .
+
+**task 2** : We assume that the transition and reward models are unknown and compute the optimal policy by implementing the **Q-learning** algorithm.
