@@ -4,6 +4,7 @@
 
 In this repo we consider the following grid-world problem :
 
+![](grid.png)
 
 An agent starting in the start state S must reach the goal state G. At each time step, the agent can go up, down,
 left or right. However, the agent’s movements are a bit noisy since it goes in the intended direction with a high
