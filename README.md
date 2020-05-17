@@ -2,7 +2,7 @@
 
 ( **CODE TO BE UPLOADED ON 21/5** )
 
-In this repo we consider the following grid-world problem :
+In this repo we consider the following **grid-world problem** :
 
 ![](grid.png)
 
@@ -24,6 +24,4 @@ possible, while avoiding the bad state.
 
 **task 1** : We compute the optimal policy by imlpementing the **value iteration** algorithm .
 
-**task 2** : We assume that the transition and reward models are unknown and 
-              
-             compute the optimal policy by implementing the **Q-learning** algorithm.
+**task 2** : We compute the optimal policy by implementing the **Q-learning** algorithm.
