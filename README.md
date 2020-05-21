@@ -1,5 +1,3 @@
-# reinforcement_learning_task
-
 In this repo we consider the following **grid-world problem** :
 
 ![](grid.png)
