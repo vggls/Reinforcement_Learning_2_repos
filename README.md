@@ -1,6 +1,4 @@
-# reinforcement_learning_under-construction
-
-( **CODE TO BE UPLOADED ON 21/5** )
+# reinforcement_learning_task
 
 In this repo we consider the following **grid-world problem** :
 
