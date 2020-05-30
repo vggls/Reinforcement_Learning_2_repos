@@ -14,9 +14,11 @@ with probability b. Similarly, when the agent executes up from the start state, 
 probability b and stays in the start state with probability b. Finally, when the agent is in the goal state, the task is over
 and the agent transitions to a special end state with probability 1 (for any action). This end state is absorbing, meaning
 that the agent cannot get out of the end state (i.e., it stays in the end state with probability 1 for every action).
+
 The agent receives a reward of 100 when it reaches the goal state, -70 for the bad state and -1 for every other state,
-except the end state, which has a 0 reward. The agent’s task is to find a policy to reach the goal state as quickly as
-possible, while avoiding the bad state.
+except the end state, which has a 0 reward.
+
+The agent’s task is to find a policy to reach the goal state as quickly as possible, while avoiding the bad state.
 
 **task 1** : We compute the optimal policy by imlpementing the **value iteration** algorithm .
 
