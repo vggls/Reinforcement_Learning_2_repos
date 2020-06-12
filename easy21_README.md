@@ -32,4 +32,4 @@ lose (reward -1), or draw (reward 0) { is the player with the largest sum.
 
 **task1 : apply Monte Carlo control**
 
-**task2 : apply Sarsa**
+**task2 : apply Sarsa** - to be uploaded by 31/6/2020 -
