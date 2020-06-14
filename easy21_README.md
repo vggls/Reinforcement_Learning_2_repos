@@ -1,3 +1,4 @@
+**under construction - to be uploaded by 28/6/2020 - **
 
 In this repo we consider the following game called **easy21** :
 
@@ -30,6 +31,5 @@ sticks on any sum of 17 or greater, and hits otherwise. If the dealer goes
 bust, then the player wins; otherwise, the outcome { win (reward +1),
 lose (reward -1), or draw (reward 0) { is the player with the largest sum.
 
-**task1 : apply Monte Carlo control**
+**task : apply Monte Carlo control**
 
-**task2 : apply Sarsa** - to be uploaded by 31/6/2020 -
