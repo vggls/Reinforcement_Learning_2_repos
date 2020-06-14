@@ -1,4 +1,4 @@
-**under construction - to be uploaded by 28/6/2020 - **
+**under construction - to be uploaded by 28/6/2020 -**
 
 In this repo we consider the following game called **easy21** :
 
