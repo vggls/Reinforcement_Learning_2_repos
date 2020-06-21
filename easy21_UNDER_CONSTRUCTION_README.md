@@ -1,5 +1,3 @@
-**under construction - to be uploaded by 28/6/2020 -**
-
 In this repo we consider the following game called **easy21** :
 
 The game is played with an infinite deck of cards (i.e. cards are sampled
